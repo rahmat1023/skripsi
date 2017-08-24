@@ -62,9 +62,9 @@ function merge($left, $right)
 }
 
 
-echo implode(' , ',$my_array)."<br>";
-$res_array=mergesort($my_array);
-echo implode(' , ',$res_array);
+// echo implode(' , ',$my_array)."<br>";
+// $res_array=mergesort($my_array);
+// echo implode(' , ',$res_array);
 
 
 
