@@ -40,7 +40,7 @@ function perkalian_matriks($matriks_a, $matriks_b) {
 
 $x = perkalian_matriks($a, $b);
 
-include 'output.php';
+// include 'output.php';
 ?>
 
 <h1>
