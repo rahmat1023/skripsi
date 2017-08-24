@@ -48,7 +48,7 @@ include 'output.php';
 </h1>
 
 <div id="back">
-	<a href="home.php">Kembali</a>
+	<a href="index.php">Kembali</a>
 </div>
 
 </body>
